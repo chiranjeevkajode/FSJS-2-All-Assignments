@@ -14,7 +14,7 @@
 
 # HTML And CSS ASSignments
 
-### Link : 
+### Link : https://github.com/chiranjeevkajode/FSJS-2-HTML-and-CSS-Assignments
 
 # Tailwind Assignment
 
